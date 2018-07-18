@@ -31,11 +31,11 @@ endif
 
 " Palette: {{{2
 
-let s:fg        = ['#F8F8F2', 255]
+let s:fg        = ['#E8E8F4', 255]
 
 let s:bglighter = ['#424450', 238]
 let s:bglight   = ['#343746', 237]
-let s:bg        = ['#282A36', 236]
+let s:bg        = ['#282936', 236]
 let s:bgdark    = ['#21222C', 235]
 let s:bgdarker  = ['#191A21', 234]
 
